@@ -1811,7 +1811,25 @@ Na základě tohoto zmocnění byla nejprve vydána **vyhláška č. 64/2002 Sb.
 >
 > *Zákon č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 493/2000 Sb., zákona č. 141/2001 Sb. a zákona č. 187/2001 Sb., se mění takto:*
 >
-> *[…] (viz plné znění)*
+> *- 1. § 39 včetně poznámky pod čarou č. 22) zní:*
+>
+> *„§ 39*
+>
+> *(1) Správce kapitoly je odpovědný za hospodaření s prostředky státního rozpočtu a jinými peněžními prostředky státu ve své kapitole.*
+>
+> *(2) Ministerstvo financí, územní finanční orgány, správci kapitol a okresní úřady zajišťují kontrolu hospodaření s prostředky státního rozpočtu, jinými peněžními prostředky státu a prostředky Národního fondu (dále jen „finanční kontrola“) podle zvláštního právního předpisu.*
+>
+> *22) Zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
+>
+> *- 2. § 40, 41 a 42 se zrušují.*
+>
+> *- 3. § 43 zní:*
+>
+> *„§ 43*
+>
+> *Jsou-li prostředky ze zahraničí poskytovány prostřednictvím státního rozpočtu, postupuje se při jejich finanční kontrole podle zvláštního právního předpisu.22)*
+>
+> *- 4. V § 44 odst. 6 se slova „po vyčerpání řádných opravných prostředků podle zvláštního právního předpisu22)“ zrušují.*
 
 **Výklad:**
 
@@ -1828,7 +1846,11 @@ Tato úprava **přesunula** problematiku finanční kontroly z rozpočtových pr
 
 > **§ 35**
 >
-> *V zákoně č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, se v § 15 dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2 […]*
+> *V zákoně č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, se v § 15 dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který včetně poznámky pod čarou č. 10a) zní:*
+>
+> *„(2) Územní samosprávné celky zajišťují výkon finanční kontroly podle zvláštního právního předpisu.10a)*
+>
+> *10a) Zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
 
 **Výklad:**
 
@@ -1840,11 +1862,17 @@ Tato úprava **přesunula** problematiku finanční kontroly z rozpočtových pr
 
 > **§ 36**
 >
-> *Zákon č. 131/2000 Sb., o hlavním městě Praze, […] se mění takto:*
+> *Zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění zákona č. 145/2001 Sb. a zákona č. 273/2001 Sb., se mění takto:*
 >
-> *1. V § 2 se doplňuje odstavec 4 […] „(4) Hlavní město Praha zajišťuje výkon finanční kontroly podle zvláštního právního předpisu.“*
+> *- 1. V § 2 se doplňuje odstavec 4, který včetně poznámky pod čarou č. 1a) zní:*
 >
-> *2. V § 3 se doplňuje odstavec 4, který zní: „Městské části zajišťují výkon finanční kontroly podle zvláštního právního předpisu.“*
+> *„(4) Hlavní město Praha zajišťuje výkon finanční kontroly podle zvláštního právního předpisu.1a)*
+>
+> *1a) Zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
+>
+> *- 2. V § 3 se doplňuje odstavec 4, který zní:*
+>
+> *„(4) Městské části zajišťují výkon finanční kontroly podle zvláštního právního předpisu.1a)“.*
 
 **Výklad:**
 
@@ -1856,7 +1884,13 @@ Tato úprava **přesunula** problematiku finanční kontroly z rozpočtových pr
 
 > **§ 37**
 >
-> *V zákoně č. 128/2000 Sb., o obcích (obecní zřízení), […] se za § 9 vkládá nový § 9a, který […] zní: „§ 9a — Obce zajišťují výkon finanční kontroly podle zvláštního právního předpisu.“*
+> *V zákoně č. 128/2000 Sb., o obcích (obecní zřízení), ve znění zákona č. 273/2001 Sb., se za § 9 vkládá nový § 9a, který včetně poznámky pod čarou č. 2a) zní:*
+>
+> *„§ 9a*
+>
+> *Obce zajišťují výkon finanční kontroly podle zvláštního právního předpisu.2a)*
+>
+> *2a) Zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
 
 **Výklad:**
 
@@ -1868,7 +1902,11 @@ Tato úprava **přesunula** problematiku finanční kontroly z rozpočtových pr
 
 > **§ 38**
 >
-> *V zákoně č. 129/2000 Sb., o krajích (krajské zřízení), […] se v § 2 doplňuje odstavec 3, který […] zní: „(3) Kraje zajišťují výkon finanční kontroly podle rozpočtových pravidel územních rozpočtů a podle zvláštního právního předpisu.“*
+> *V zákoně č. 129/2000 Sb., o krajích (krajské zřízení), ve znění zákona č. 273/2001 Sb., se v § 2 doplňuje odstavec 3, který včetně poznámky pod čarou č. 1a) zní:*
+>
+> *„(3) Kraje zajišťují výkon finanční kontroly podle rozpočtových pravidel územních rozpočtů a podle zvláštního právního předpisu.1a)*
+>
+> *1a) Zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
 
 **Výklad:**
 
@@ -1880,7 +1918,11 @@ Tato úprava **přesunula** problematiku finanční kontroly z rozpočtových pr
 
 > **§ 39**
 >
-> *V zákoně č. 147/2000 Sb., o okresních úřadech, v § 9 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2 […] „(2) Okresní úřad zajišťuje výkon finanční kontroly u svých organizačních složek a příspěvkových organizací a u obcí a jimi zřízených organizací podle zvláštního právního předpisu.“*
+> *V zákoně č. 147/2000 Sb., o okresních úřadech, v § 9 se dosavadní text označuje jako odstavec 1 a doplňuje se odstavec 2, který včetně poznámky pod čarou č. 7a) zní:*
+>
+> *„(2) Okresní úřad zajišťuje výkon finanční kontroly u svých organizačních složek a příspěvkových organizací a u obcí a jimi zřízených organizací podle zvláštního právního předpisu.7a)*
+>
+> *7a) Zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
 
 **Výklad:**
 
@@ -1892,7 +1934,11 @@ Tato úprava **přesunula** problematiku finanční kontroly z rozpočtových pr
 
 > **§ 40**
 >
-> *V zákoně č. 337/1992 Sb., o správě daní a poplatků, […] se v § 24 odst. 6 […] doplňuje se písmeno j) […]: „j) Ministerstvu financí údaje o výši stanoveného odvodu neoprávněně použitých nebo zadržených prostředků státního rozpočtu nebo státních fondů, na základě zvláštního právního předpisu.“ […]*
+> *V zákoně č. 337/1992 Sb., o správě daní a poplatků, ve znění zákona č. 255/1994 Sb., zákona č. 59/1995 Sb., zákona č. 118/1995 Sb., zákona č. 242/1997 Sb., zákona č. 91/1998 Sb., zákona č. 168/1998 Sb. a zákona č. 271/2001 Sb., se v § 24 odst. 6 na konci písmene i) tečka nahrazuje čárkou a doplňuje se písmeno j), které včetně poznámky pod čarou č. 12a) zní:*
+>
+> *- „j) Ministerstvu financí údaje o výši stanoveného odvodu neoprávněně použitých nebo zadržených prostředků státního rozpočtu nebo státních fondů, na základě zvláštního právního předpisu.12a)*
+>
+> *12a) § 18 zákona č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
 
 **Výklad:**
 
@@ -1906,11 +1952,15 @@ V dnešním daňovém řádu (z. č. 280/2009 Sb.) je obdobná úprava obsažena
 
 > **§ 41**
 >
-> *Zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, […] se mění takto:*
+> *Zákon č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 492/2000 Sb. a zákona č. 229/2001 Sb., se mění takto:*
 >
-> *1. V § 48 odst. 1 se slovo „Vnitřní" a slova „(dále jen „kontrola")" zrušují.*
+> *- 1. V § 48 odst. 1 se slovo „Vnitřní“ a slova „(dále jen „kontrola“)“ zrušují.*
 >
-> *2. V § 49 odstavec 1 […] zní: „Kontrolní metody, kontrolní postupy a vzájemné vztahy kontrolních orgánů a kontrolovaných organizačních složek při provádění kontroly se řídí zvláštními právními předpisy, které upravují finanční kontrolu a její výkon […]“*
+> *- 2. V § 49 odstavec 1 včetně poznámky pod čarou č. 65a) zní:*
+>
+> *„(1) Kontrolní metody, kontrolní postupy a vzájemné vztahy kontrolních orgánů a kontrolovaných organizačních složek při provádění kontroly se řídí zvláštními právními předpisy,65a) které upravují finanční kontrolu a její výkon, a pravidly obsaženými ve vnitřních předpisech vydaných kontrolními orgány.*
+>
+> *65a) Například zákon č. 320/2001 Sb., o finanční kontrole ve veřejné správě a o změně některých zákonů (zákon o finanční kontrole).“.*
 
 **Výklad:**
 
