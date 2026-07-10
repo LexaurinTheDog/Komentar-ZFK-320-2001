@@ -15,3 +15,7 @@
 
 ## Vazby
 [RPS 218/2000](/home/vojtech/Komentar-RPS-218-2000/), [RP-ÚR 250/2000](/home/vojtech/Komentar-RPUR-250-2000/), 420/2004 (audit ÚSC), 255/2012 (kontrolní řád).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
